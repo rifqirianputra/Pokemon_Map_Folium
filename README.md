@@ -6,5 +6,5 @@ the data is to show the Pokemon that spawns in San Francisco Bay area, using the
 
 
 the "#" code is the code that is not used, but i kept just in case I ever needed it  
-the map is not rendered on on GitHub, but you can see the map at https://nbviewer.jupyter.org/
+the map is not rendered on on GitHub, but you can see the map at https://nbviewer.jupyter.org/  
 just paste my Repo link
